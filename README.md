@@ -38,6 +38,7 @@ inurl:camctrl.cgi
 intitle:"supervisioncam protocol"
 intitle:"active webcam page"
 
-# download file
+# local file inclusion
 
 site:researchforaction.org and "download"
+inurl:"index.php?page="  lars-seeberg
